@@ -1,0 +1,16 @@
+nav{
+    display: flex;
+    align-items: center;
+    padding: 0 8px;
+    height: 60px;
+    justify-content: space-between;
+  }
+  nav ul{
+    display: flex;
+   list-style:none;
+   font-weight: 500;
+    gap: 24px;
+    cursor: pointer;
+  }
+  
+
